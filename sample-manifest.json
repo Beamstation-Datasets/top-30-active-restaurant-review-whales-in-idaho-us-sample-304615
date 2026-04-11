@@ -1,0 +1,12 @@
+{
+  "export_job_id": "66646cf3-a80d-4c9d-9a43-68881ad75dad",
+  "id_short": 304615,
+  "published_at": "2026-04-11T07:23:22Z",
+  "repo_name": "top-30-active-restaurant-review-whales-in-idaho-us-sample-304615",
+  "sample_asset_name": "beamstation_304615_restaurants-us-id_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/304615/beamstation_304615_restaurants-us-id_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "1a6ba363744d69e694418ed04b072fa01b66ab3c77e625d0749f776b430d07a0",
+  "sample_size_bytes": 55422,
+  "total_records": 747
+}
