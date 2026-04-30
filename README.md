@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Idaho, US
 
-> Free BeamStation sample export with 74 rows and masked direct-contact fields.
+> Free BeamStation sample export with 26 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `304615` |
 | Location | Idaho |
 | Category | Restaurants |
-| Full dataset size | 740 records |
-| Free sample size | 74 records (10.0%) |
-| Last export | 2026-04-22T08:11:21.771074+00:00 |
+| Full dataset size | 267 records |
+| Free sample size | 26 records (9.74%) |
+| Last export | 2026-04-29T09:52:04.837225+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-idaho-us-sample-304615/releases/download/sample-latest/beamstation_304615_restaurants-us-id_SAMPLE_DIST.csv) |
 
 ## What is in this sample
